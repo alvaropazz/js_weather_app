@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('works')\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("function setCity(city){\n  fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=886700da32110e4284daaccee7bdf897`, {mode: 'cors'})\n  .then(response => response.json())\n  .then(data => console.log(data));\n};\n\nsetCity('london');\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
