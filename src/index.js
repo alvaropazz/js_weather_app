@@ -35,6 +35,3 @@ setLocation.addEventListener('submit', function(e){
   });
 
 })
-
-
-  
