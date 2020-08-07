@@ -1,0 +1,75 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main {
+  border: .5em solid black;
+  width: 50%;
+  margin: 10% auto 0 auto;
+  padding: 1em;
+}
+
+.search {
+  border: .5em solid black;
+  padding: 1em;
+  display: flex;
+}
+
+input {
+  width: 100%;
+  border: .5em solid black;
+}
+
+.main-weather {
+  border: .5em solid black;
+  margin-top: .5em;
+  padding: 1em;
+}
+
+.description {
+  border: .5em solid black;
+  height: 2em;
+}
+
+section {
+  border: .5em solid black;
+  padding: 1em;
+  display: flex;
+}
+
+.icon {
+  border: .5em solid black;
+  flex: auto;
+  height: 15em;
+}
+
+.temperature {
+  border: .5em solid black;
+  flex: auto;
+  height: 15em;
+}
+
+.location {
+  border: .5em solid black;
+  height: 2em;
+}
+
+.date {
+  border: .5em solid black;
+  height: 2em;
+}

@@ -1,3 +1,5 @@
+import './styles.css';
+
 const img = document.querySelector('img');
 
 function setCity(city){
