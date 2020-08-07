@@ -20,7 +20,7 @@ body {
 }
 
 main {
-  border: .5em solid black;
+  border: 0.5em solid black;
   width: 50%;
   margin: 10% auto 0 auto;
   padding: 1em;
@@ -28,35 +28,35 @@ main {
 }
 
 .search {
-  border: .5em solid black;
+  border: 0.5em solid black;
   padding: 1em;
   display: flex;
 }
 
 input {
   width: 100%;
-  border: .5em solid black;
+  border: 0.5em solid black;
 }
 
 .main-weather {
-  border: .5em solid black;
-  margin-top: .5em;
+  border: 0.5em solid black;
+  margin-top: 0.5em;
   padding: 1em;
 }
 
 .description {
-  border: .5em solid black;
+  border: 0.5em solid black;
   height: 2em;
 }
 
 section {
-  border: .5em solid black;
+  border: 0.5em solid black;
   padding: 1em;
   display: flex;
 }
 
 .icon {
-  border: .5em solid black;
+  border: 0.5em solid black;
   flex: 1;
   height: 5em;
   display: flex;
@@ -71,7 +71,7 @@ img {
 }
 
 .temperature {
-  border: .5em solid black;
+  border: 0.5em solid black;
   flex: 1;
   height: 5em;
   display: flex;
@@ -81,11 +81,11 @@ img {
 }
 
 .location {
-  border: .5em solid black;
+  border: 0.5em solid black;
   height: 2em;
 }
 
 .date {
-  border: .5em solid black;
+  border: 0.5em solid black;
   height: 2em;
 }
