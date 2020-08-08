@@ -28,7 +28,6 @@ setLocation.addEventListener('submit', (e) => {
   const place = form.querySelector('input[name="place"]').value;
   const unit = form.querySelector('#unit option:checked').value;
 
-  console.log(unit)
   setter(place, unit).then(data => {
     weatherIcon.src = `../src/assets/icons/${data.weather[0].icon}.png`;
     weatherDescription.innerHTML = data.weather[0].description;
