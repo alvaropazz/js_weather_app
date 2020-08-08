@@ -11,7 +11,12 @@
 <body>
   <main>
     <form class="search">
-      <input type="text" class="location-setter" name="place">
+      <input type="text" class="location-setter" name="place" required>
+      <select id="unit" name="unit" required>
+        <option selected disabled hidden class='option-none' value=''></option>
+        <option value="metric">Celsius</option>
+        <option value="imperial">Fahrenheit</option>
+      </select>
       <input type="submit">
     </form>
     <div class="main-weather">

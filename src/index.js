@@ -15,8 +15,8 @@ const output = `${month} ${day}, ${year}`;
 
 document.querySelector('.date').innerHTML = output;
 
-async function setter(city) {
-  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=886700da32110e4284daaccee7bdf897`, { mode: 'cors' });
+async function setter(city, unit) {
+  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=${unit}&appid=886700da32110e4284daaccee7bdf897`, { mode: 'cors' });
   const json = await response.json();
   return json;
 }
@@ -26,8 +26,10 @@ setLocation.addEventListener('submit', (e) => {
   e.preventDefault();
   const form = e.target;
   const place = form.querySelector('input[name="place"]').value;
+  const unit = form.querySelector('#unit option:checked').value;
 
-  setter(place).then(data => {
+  console.log(unit)
+  setter(place, unit).then(data => {
     weatherIcon.src = `../src/assets/icons/${data.weather[0].icon}.png`;
     weatherDescription.innerHTML = data.weather[0].description;
     temperatureBox.innerHTML = `${data.main.temp}&#xb0`;

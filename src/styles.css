@@ -38,6 +38,14 @@ input {
   border: 0.5em solid black;
 }
 
+select {
+  border: 0.5em solid black;
+}
+
+.option-none {
+  display: none;
+}
+
 .main-weather {
   border: 0.5em solid black;
   margin-top: 0.5em;
