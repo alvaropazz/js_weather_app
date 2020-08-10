@@ -36,7 +36,8 @@ setLocation.addEventListener('submit', (e) => {
     if (data.cod === '404') {
       alert('no data for input location'); // eslint-disable-line no-alert
     } else {
-      weatherIcon.src = `a_${data.weather[0].icon}`;
+      weatherIcon.src = "a_"+ data.weather[0].icon;
+      console.log(weatherIcon.src)
       weatherDescription.innerHTML = data.weather[0].description;
       temperatureBox.innerHTML = `${data.main.temp}&#xb0`;
       weatherLocation.innerHTML = getDate(data.name, data.timezone);
