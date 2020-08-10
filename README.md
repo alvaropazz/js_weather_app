@@ -21,7 +21,7 @@
 
 ## Live Link
 
-[Live Demo](http://alvaropaz.me/js_weather_app/)
+[Live Demo](https://rawcdn.githack.com/alvaropazz/js_weather_app/feature/working/dist/index.html)
 
 ## Technologies Used
 
