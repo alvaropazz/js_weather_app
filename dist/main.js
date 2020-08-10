@@ -130,7 +130,31 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n\n\nconst weatherIcon = document.querySelector('.weather-icon');\nconst weatherDescription = document.querySelector('.description');\nconst temperatureBox = document.querySelector('.temperature');\nconst weatherLocation = document.querySelector('.location');\n\nasync function setter(city, unit) {\n  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=${unit}&appid=886700da32110e4284daaccee7bdf897`, { mode: 'cors' });\n  const json = await response.json();\n  return json;\n}\n\nconst setLocation = document.querySelector('.search');\nsetLocation.addEventListener('submit', (e) => {\n  e.preventDefault();\n  const form = e.target;\n  const place = form.querySelector('input[name=\"place\"]').value;\n  const unit = form.querySelector('#unit option:checked').value;\n\n  setter(place, unit).then(data => {\n    weatherIcon.src = `../src/assets/icons/${data.weather[0].icon}.png`;\n    weatherDescription.innerHTML = data.weather[0].description;\n    temperatureBox.innerHTML = `${data.main.temp}&#xb0`;\n    weatherLocation.innerHTML = calcTime(data.name, data.timezone);\n    ;\n  });\n\n\n});\n\nfunction calcTime(city, offset) {\n  let date = new Date();\n  let utc = date.getTime() + (date.getTimezoneOffset() * 60 * 1000);\n  let nd = new Date(utc + (1000 * offset));\n  return city + \"'s date is \"+ nd.toLocaleString();\n}\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _modules_date__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/date */ \"./src/modules/date.js\");\n/* harmony import */ var _modules_setter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/setter */ \"./src/modules/setter.js\");\n\n\n\n\nconst weatherIcon = document.querySelector('.weather-icon');\nconst weatherDescription = document.querySelector('.description');\nconst temperatureBox = document.querySelector('.temperature');\nconst weatherLocation = document.querySelector('.location');\n\nconst setLocation = document.querySelector('.search');\nsetLocation.addEventListener('submit', (e) => {\n  e.preventDefault();\n  const form = e.target;\n  const place = form.querySelector('input[name=\"place\"]').value;\n  const unit = form.querySelector('#unit option:checked').value;\n\n  Object(_modules_setter__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(place, unit).then(data => {\n    if (data.cod === '404') {\n      alert('no data for input location')\n    } else {\n      weatherIcon.src = `../src/assets/icons/${data.weather[0].icon}.png`;\n      weatherDescription.innerHTML = data.weather[0].description;\n      temperatureBox.innerHTML = `${data.main.temp}&#xb0`;\n      weatherLocation.innerHTML = Object(_modules_date__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(data.name, data.timezone);\n    }\n  });\n});\n\n//# sourceURL=webpack:///./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/modules/date.js":
+/*!*****************************!*\
+  !*** ./src/modules/date.js ***!
+  \*****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return getDate; });\nfunction getDate(city, offset) {\n  let date = new Date();\n  let utc = date.getTime() + (date.getTimezoneOffset() * 60 * 1000);\n  let nd = new Date(utc + (1000 * offset));\n  return city + \"'s date is \"+ nd.toLocaleString();\n}\n\n//# sourceURL=webpack:///./src/modules/date.js?");
+
+/***/ }),
+
+/***/ "./src/modules/setter.js":
+/*!*******************************!*\
+  !*** ./src/modules/setter.js ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return setter; });\nasync function setter(city, unit) {\n  const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=${unit}&appid=886700da32110e4284daaccee7bdf897`, { mode: 'cors' });\n  const json = await response.json();\n  return json;\n}\n\n//# sourceURL=webpack:///./src/modules/setter.js?");
 
 /***/ }),
 
