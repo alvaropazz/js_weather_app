@@ -7,13 +7,17 @@
 
 ## About the project
 
-This is a ...
+- This is a JavaScript based weather app. 
+- It makes use of the fetch API.
+- It uses the [open weather API](https://openweathermap.org/api).
+- It uses [manifest interactive](https://github.com/manifestinteractive/weather-underground-icons) icons
 
-![image]()
+![image](https://user-images.githubusercontent.com/58086801/89838305-85ec7200-db30-11ea-971b-38aa65af3322.png)
+
 
 ## Features
 
-- Test 
+- Input any city of the world and get an updated weather and time update
 
 ## Live Link
 
