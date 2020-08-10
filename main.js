@@ -122,207 +122,219 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 
 /***/ }),
 
-/***/ "./src/assets/icons/01d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/01d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_01d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_01d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/01d.e802a9f70d731d2fd2f448c5d035bb9b.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/01d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_01d.e802a9f70d731d2fd2f448c5d035bb9b.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_01d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/02d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/02d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_01n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_01n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/02d.18dc023e509e4727794ea1ef8193dcf9.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/02d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_01n.cdbce7e3996f9609219f42a084ac233a.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_01n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/02n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/02n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_02d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_02d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/02n.956d99d7047f2c061bf03c7de1d26e24.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/02n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_02d.18dc023e509e4727794ea1ef8193dcf9.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_02d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/03d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/03d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_02n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_02n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/03d.9ce18f766ecb176097b800d2d4c36f4c.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/03d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_02n.956d99d7047f2c061bf03c7de1d26e24.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_02n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/03n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/03n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_03d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_03d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/03n.cc81a50e8e6604dfe000f49dc98e5c8b.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/03n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_03d.9ce18f766ecb176097b800d2d4c36f4c.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_03d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/04d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/04d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_03n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_03n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/04d.d69fd8c352955f7d7ea3c2b4740b42cb.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/04d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_03n.cc81a50e8e6604dfe000f49dc98e5c8b.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_03n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/04n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/04n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_04d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_04d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/04n.d69fd8c352955f7d7ea3c2b4740b42cb.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/04n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_04d.d69fd8c352955f7d7ea3c2b4740b42cb.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_04d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/09d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/09d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_04n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_04n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/09d.651e07809f6d252af7c49cafa2e69b9d.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/09d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_04n.d69fd8c352955f7d7ea3c2b4740b42cb.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_04n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/09n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/09n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_09d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_09d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/09n.651e07809f6d252af7c49cafa2e69b9d.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/09n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_09d.651e07809f6d252af7c49cafa2e69b9d.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_09d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/10d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/10d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_09n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_09n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/10d.4f8d3bcc2812c7b5d9c98e512afcc977.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/10d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_09n.651e07809f6d252af7c49cafa2e69b9d.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_09n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/10n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/10n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_10d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_10d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/10n.4f8d3bcc2812c7b5d9c98e512afcc977.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/10n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_10d.4f8d3bcc2812c7b5d9c98e512afcc977.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_10d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/11d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/11d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_10n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_10n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/11d.9500f729939001d86d1166f435e5fd86.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/11d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_10n.4f8d3bcc2812c7b5d9c98e512afcc977.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_10n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/11n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/11n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_11d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_11d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/11n.9500f729939001d86d1166f435e5fd86.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/11n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_11d.9500f729939001d86d1166f435e5fd86.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_11d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/13d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/13d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_11n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_11n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/13d.939dc1c78a3e515af5bc8521599e16b3.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/13d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_11n.9500f729939001d86d1166f435e5fd86.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_11n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/13n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/13n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_13d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_13d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/13n.939dc1c78a3e515af5bc8521599e16b3.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/13n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_13d.939dc1c78a3e515af5bc8521599e16b3.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_13d.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/50d.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/50d.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_13n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_13n.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/50d.66cd0f5e79266310836aa06bcf164535.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/50d.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_13n.939dc1c78a3e515af5bc8521599e16b3.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_13n.png?");
 
 /***/ }),
 
-/***/ "./src/assets/icons/50n.png":
-/*!**********************************!*\
-  !*** ./src/assets/icons/50n.png ***!
-  \**********************************/
+/***/ "./src/assets/icons/a_50d.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_50d.png ***!
+  \************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/50n.66cd0f5e79266310836aa06bcf164535.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/50n.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_50d.66cd0f5e79266310836aa06bcf164535.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_50d.png?");
+
+/***/ }),
+
+/***/ "./src/assets/icons/a_50n.png":
+/*!************************************!*\
+  !*** ./src/assets/icons/a_50n.png ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"src/assets/icons/a_50n.66cd0f5e79266310836aa06bcf164535.png\");\n\n//# sourceURL=webpack:///./src/assets/icons/a_50n.png?");
 
 /***/ }),
 
@@ -334,7 +346,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _modules_date__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/date */ \"./src/modules/date.js\");\n/* harmony import */ var _modules_setter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/setter */ \"./src/modules/setter.js\");\n/* harmony import */ var _assets_icons_01d_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/icons/01d.png */ \"./src/assets/icons/01d.png\");\n/* harmony import */ var _assets_icons_02d_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/icons/02d.png */ \"./src/assets/icons/02d.png\");\n/* harmony import */ var _assets_icons_02n_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/icons/02n.png */ \"./src/assets/icons/02n.png\");\n/* harmony import */ var _assets_icons_03d_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/icons/03d.png */ \"./src/assets/icons/03d.png\");\n/* harmony import */ var _assets_icons_03n_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/icons/03n.png */ \"./src/assets/icons/03n.png\");\n/* harmony import */ var _assets_icons_04d_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/icons/04d.png */ \"./src/assets/icons/04d.png\");\n/* harmony import */ var _assets_icons_04n_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./assets/icons/04n.png */ \"./src/assets/icons/04n.png\");\n/* harmony import */ var _assets_icons_09d_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./assets/icons/09d.png */ \"./src/assets/icons/09d.png\");\n/* harmony import */ var _assets_icons_09n_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/icons/09n.png */ \"./src/assets/icons/09n.png\");\n/* harmony import */ var _assets_icons_10d_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./assets/icons/10d.png */ \"./src/assets/icons/10d.png\");\n/* harmony import */ var _assets_icons_10n_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./assets/icons/10n.png */ \"./src/assets/icons/10n.png\");\n/* harmony import */ var _assets_icons_11d_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./assets/icons/11d.png */ \"./src/assets/icons/11d.png\");\n/* harmony import */ var _assets_icons_11n_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./assets/icons/11n.png */ \"./src/assets/icons/11n.png\");\n/* harmony import */ var _assets_icons_13d_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./assets/icons/13d.png */ \"./src/assets/icons/13d.png\");\n/* harmony import */ var _assets_icons_13n_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./assets/icons/13n.png */ \"./src/assets/icons/13n.png\");\n/* harmony import */ var _assets_icons_50d_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./assets/icons/50d.png */ \"./src/assets/icons/50d.png\");\n/* harmony import */ var _assets_icons_50n_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./assets/icons/50n.png */ \"./src/assets/icons/50n.png\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst weatherIcon = document.querySelector('.weather-icon');\nconst weatherDescription = document.querySelector('.description');\nconst temperatureBox = document.querySelector('.temperature');\nconst weatherLocation = document.querySelector('.location');\n\nconst setLocation = document.querySelector('.search');\nsetLocation.addEventListener('submit', (e) => {\n  e.preventDefault();\n  const form = e.target;\n  const place = form.querySelector('input[name=\"place\"]').value;\n  const unit = form.querySelector('#unit option:checked').value;\n\n  Object(_modules_setter__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(place, unit).then(data => {\n    if (data.cod === '404') {\n      alert('no data for input location'); // eslint-disable-line no-alert\n    } else {\n      weatherIcon.src = `../src/assets/icons/${data.weather[0].icon}.png`;\n      weatherDescription.innerHTML = data.weather[0].description;\n      temperatureBox.innerHTML = `${data.main.temp}&#xb0`;\n      weatherLocation.innerHTML = Object(_modules_date__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(data.name, data.timezone);\n    }\n  });\n});\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _modules_date__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/date */ \"./src/modules/date.js\");\n/* harmony import */ var _modules_setter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/setter */ \"./src/modules/setter.js\");\n/* harmony import */ var _assets_icons_a_01d_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/icons/a_01d.png */ \"./src/assets/icons/a_01d.png\");\n/* harmony import */ var _assets_icons_a_01n_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/icons/a_01n.png */ \"./src/assets/icons/a_01n.png\");\n/* harmony import */ var _assets_icons_a_02d_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/icons/a_02d.png */ \"./src/assets/icons/a_02d.png\");\n/* harmony import */ var _assets_icons_a_02n_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/icons/a_02n.png */ \"./src/assets/icons/a_02n.png\");\n/* harmony import */ var _assets_icons_a_03d_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/icons/a_03d.png */ \"./src/assets/icons/a_03d.png\");\n/* harmony import */ var _assets_icons_a_03n_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./assets/icons/a_03n.png */ \"./src/assets/icons/a_03n.png\");\n/* harmony import */ var _assets_icons_a_04d_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./assets/icons/a_04d.png */ \"./src/assets/icons/a_04d.png\");\n/* harmony import */ var _assets_icons_a_04n_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./assets/icons/a_04n.png */ \"./src/assets/icons/a_04n.png\");\n/* harmony import */ var _assets_icons_a_09d_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/icons/a_09d.png */ \"./src/assets/icons/a_09d.png\");\n/* harmony import */ var _assets_icons_a_09n_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./assets/icons/a_09n.png */ \"./src/assets/icons/a_09n.png\");\n/* harmony import */ var _assets_icons_a_10d_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./assets/icons/a_10d.png */ \"./src/assets/icons/a_10d.png\");\n/* harmony import */ var _assets_icons_a_10n_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./assets/icons/a_10n.png */ \"./src/assets/icons/a_10n.png\");\n/* harmony import */ var _assets_icons_a_11d_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./assets/icons/a_11d.png */ \"./src/assets/icons/a_11d.png\");\n/* harmony import */ var _assets_icons_a_11n_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./assets/icons/a_11n.png */ \"./src/assets/icons/a_11n.png\");\n/* harmony import */ var _assets_icons_a_13d_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./assets/icons/a_13d.png */ \"./src/assets/icons/a_13d.png\");\n/* harmony import */ var _assets_icons_a_13n_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./assets/icons/a_13n.png */ \"./src/assets/icons/a_13n.png\");\n/* harmony import */ var _assets_icons_a_50d_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./assets/icons/a_50d.png */ \"./src/assets/icons/a_50d.png\");\n/* harmony import */ var _assets_icons_a_50n_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./assets/icons/a_50n.png */ \"./src/assets/icons/a_50n.png\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst weatherIcon = document.querySelector('.weather-icon');\nconst weatherDescription = document.querySelector('.description');\nconst temperatureBox = document.querySelector('.temperature');\nconst weatherLocation = document.querySelector('.location');\n\nconst setLocation = document.querySelector('.search');\nsetLocation.addEventListener('submit', (e) => {\n  e.preventDefault();\n  const form = e.target;\n  const place = form.querySelector('input[name=\"place\"]').value;\n  const unit = form.querySelector('#unit option:checked').value;\n\n  Object(_modules_setter__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(place, unit).then(data => {\n    if (data.cod === '404') {\n      alert('no data for input location'); // eslint-disable-line no-alert\n    } else {\n      weatherIcon.src = `a_${data.weather[0].icon}`;\n      weatherDescription.innerHTML = data.weather[0].description;\n      temperatureBox.innerHTML = `${data.main.temp}&#xb0`;\n      weatherLocation.innerHTML = Object(_modules_date__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(data.name, data.timezone);\n    }\n  });\n});\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
