@@ -21,7 +21,7 @@
 
 ## Live Link
 
-[Live Demo]()
+[Live Demo](http://alvaropaz.me/js_weather_app/)
 
 ## Technologies Used
 
