@@ -16,6 +16,10 @@ body {
   font-size: 10px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
+  background-image: url(./assets/images/basic-menphis-min.jpg);
+  background-position: center; 
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header {
@@ -27,6 +31,7 @@ header {
   margin: 5% auto 0 auto;
   padding: 1em;
   font-size: 2em;
+  background-color: white;
 }
 
 main {
@@ -35,6 +40,7 @@ main {
   margin: 0 auto 0 auto;
   padding: 1em;
   font-size: 2em;
+  background-color: white;
 }
 
 h1 {
