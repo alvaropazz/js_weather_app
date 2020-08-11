@@ -17,7 +17,7 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
   background-image: url(./assets/images/basic-menphis-min.jpg);
-  background-position: center; 
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
