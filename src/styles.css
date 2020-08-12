@@ -20,12 +20,13 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  color: #947bbd;
 }
 
 header {
-  border-top: 0.5em solid black;
-  border-left: 0.5em solid black;
-  border-right: 0.5em solid black;
+  border-top: 0.5em solid #403c3d;
+  border-left: 0.5em solid #403c3d;
+  border-right: 0.5em solid #403c3d;
   border-bottom: none;
   max-width: 500px;
   margin: 5% auto 0 auto;
@@ -35,7 +36,7 @@ header {
 }
 
 main {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   max-width: 500px;
   margin: 0 auto 0 auto;
   padding: 1em;
@@ -52,18 +53,18 @@ p {
 }
 
 .search {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   padding: 1em;
   display: flex;
 }
 
 input {
   width: 100%;
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
 }
 
 select {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
 }
 
 .option-none {
@@ -71,23 +72,23 @@ select {
 }
 
 .main-weather {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   margin-top: 0.5em;
   padding: 1em;
 }
 
 .description {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
 }
 
 section {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   padding: 1em;
   display: flex;
 }
 
 .icon {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   flex: 1;
   height: 5em;
   display: flex;
@@ -102,7 +103,7 @@ img {
 }
 
 .temperature {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
   flex: 1;
   height: 5em;
   display: flex;
@@ -112,9 +113,9 @@ img {
 }
 
 .location {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
 }
 
 .date {
-  border: 0.5em solid black;
+  border: 0.5em solid #403c3d;
 }
