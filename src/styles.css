@@ -1,0 +1,121 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  background-image: url(./assets/images/basic-menphis-min.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #947bbd;
+}
+
+header {
+  border-top: 0.5em solid #403c3d;
+  border-left: 0.5em solid #403c3d;
+  border-right: 0.5em solid #403c3d;
+  border-bottom: none;
+  max-width: 500px;
+  margin: 5% auto 0 auto;
+  padding: 1em;
+  font-size: 2em;
+  background-color: white;
+}
+
+main {
+  border: 0.5em solid #403c3d;
+  max-width: 500px;
+  margin: 0 auto 0 auto;
+  padding: 1em;
+  font-size: 2em;
+  background-color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  padding: 0.5em;
+}
+
+.search {
+  border: 0.5em solid #403c3d;
+  padding: 1em;
+  display: flex;
+}
+
+input {
+  width: 100%;
+  border: 0.5em solid #403c3d;
+}
+
+select {
+  border: 0.5em solid #403c3d;
+}
+
+.option-none {
+  display: none;
+}
+
+.main-weather {
+  border: 0.5em solid #403c3d;
+  margin-top: 0.5em;
+  padding: 1em;
+}
+
+.description {
+  border: 0.5em solid #403c3d;
+}
+
+section {
+  border: 0.5em solid #403c3d;
+  padding: 1em;
+  display: flex;
+}
+
+.icon {
+  border: 0.5em solid #403c3d;
+  flex: 1;
+  height: 5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 4em;
+  margin: auto;
+}
+
+.temperature {
+  border: 0.5em solid #403c3d;
+  flex: 1;
+  height: 5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.location {
+  border: 0.5em solid #403c3d;
+}
+
+.date {
+  border: 0.5em solid #403c3d;
+}
